@@ -11,5 +11,5 @@ key = 9
 result = linear_search(list, n, key)
 if (result == -1):
     print("Element not found")
-else:
+else
     print("Element found at the position", result + 1)

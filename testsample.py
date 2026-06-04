@@ -5,7 +5,7 @@ def linear_search(list, n, key):
     return -1
 
 list = [9, 12, 15, 37, 28, 30]
-n = len(list)
+n = len(string)
 key = 9
 
 result = linear_search(list, n, key)
